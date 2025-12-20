@@ -1,51 +1,51 @@
 [
     {
-        "p_source_rel_url":"achyuthabala/Datasets/blob/main/project1/AdventureWorks_Calendar.csv",
+        "p_source_rel_url":"achyuthabala/Datasets/main/project1/AdventureWorks_Calendar.csv",
         "p_folder":"Calendar",
         "p_file":"calendar.csv"
     },
     {
-        "p_source_rel_url":"achyuthabala/Datasets/blob/main/project1/AdventureWorks_Customers.csv",
+        "p_source_rel_url":"achyuthabala/Datasets/main/project1/AdventureWorks_Customers.csv",
         "p_folder":"Customers",
         "p_file":"customers.csv"
     },    
     {
-        "p_source_rel_url":"achyuthabala/Datasets/blob/main/project1/AdventureWorks_Products.csv",
+        "p_source_rel_url":"achyuthabala/Datasets/main/project1/AdventureWorks_Products.csv",
         "p_folder":"Products",
         "p_file":"Products.csv"
     },
     {
-        "p_source_rel_url":"achyuthabala/Datasets/blob/main/project1/AdventureWorks_Product_Categories.csv",
+        "p_source_rel_url":"achyuthabala/Datasets/main/project1/AdventureWorks_Product_Categories.csv",
         "p_folder":"Product_Categories",
         "p_file":"product_categories.csv"
     },
     {
-        "p_source_rel_url":"achyuthabala/Datasets/blob/main/project1/AdventureWorks_Product_Subcategories.csv",
+        "p_source_rel_url":"achyuthabala/Datasets/main/project1/AdventureWorks_Product_Subcategories.csv",
         "p_folder":"Product_Subcategories",
         "p_file":"product_subcategories.csv"
     },
     {
-        "p_source_rel_url":"achyuthabala/Datasets/blob/main/project1/AdventureWorks_Returns.csv",
+        "p_source_rel_url":"achyuthabala/Datasets/main/project1/AdventureWorks_Returns.csv",
         "p_folder":"Returns",
         "p_file":"returns.csv"
     },
     {
-        "p_source_rel_url":"achyuthabala/Datasets/blob/main/project1/AdventureWorks_Sales_2015.csv",
+        "p_source_rel_url":"achyuthabala/Datasets/main/project1/AdventureWorks_Sales_2015.csv",
         "p_folder":"Sales",
         "p_file":"Sales_2015.csv"
     },
     {
-        "p_source_rel_url":"achyuthabala/Datasets/blob/main/project1/AdventureWorks_Sales_2016.csv",
+        "p_source_rel_url":"achyuthabala/Datasets/main/project1/AdventureWorks_Sales_2016.csv",
         "p_folder":"Sales",
         "p_file":"Sales_2016.csv"
     },
     {
-        "p_source_rel_url":"achyuthabala/Datasets/blob/main/project1/AdventureWorks_Sales_2017.csv",
+        "p_source_rel_url":"achyuthabala/Datasets/main/project1/AdventureWorks_Sales_2017.csv",
         "p_folder":"Sales",
         "p_file":"Sales_2017.csv"
     },
     {
-        "p_source_rel_url":"achyuthabala/Datasets/blob/main/project1/AdventureWorks_Territories.csv",
+        "p_source_rel_url":"achyuthabala/Datasets/main/project1/AdventureWorks_Territories.csv",
         "p_folder":"Territories",
         "p_file":"territories.csv"
     }
