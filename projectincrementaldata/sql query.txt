@@ -5,7 +5,7 @@ CREATE TABLE Sales_Fact
     Model_ID       VARCHAR(200),
     Revenue        bigint,
     Units_Sold     bigint,
-    Date_ID        bigint,
+    Date_ID        VARCHAR(50),
     [Day]          INT,
     [Month]        INT,
     [Year]         INT,
