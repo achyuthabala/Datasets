@@ -13,3 +13,10 @@ CREATE TABLE Sales_Fact
     DealerName     VARCHAR(200),
     Product_Name  VARCHAR(200)
 );
+
+create table watermark
+(
+mark_id varchar(20)
+);
+
+insert into watermark (mark_id) values('DT00000');
